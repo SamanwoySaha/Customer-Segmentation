@@ -1,4 +1,3 @@
-# Customer-Segmentation
 # Customer Segmentation Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -54,7 +53,6 @@ The notebook includes comprehensive visualizations:
 - Average Income by Age Group
 - ELbow Method for Optimal Cluster Size
 - Customer Segmentation (PCA)
-
 
 ### Customer Segments: 0, 1, 2, 3, 4, 5
 
