@@ -9,7 +9,8 @@
 ## 📋 Project Overview
 
 This project implements customer segmentation analysis using KMeans Clustering. The segmentation helps businesses understand their customer base better and develop targeted marketing strategies.
-![image.png](https://postimg.cc/T5ggwddR)
+
+![customer-segmentation.png](https://i.postimg.cc/Wzfn5zxJ/customer-segmentation.png)
 
 [Dataset](https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering)
 
